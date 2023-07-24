@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/vencio-frontend/static/css/main.8dc26883.css",
-    "main.js": "/vencio-frontend/static/js/main.a3c835ec.js",
-    "index.html": "/vencio-frontend/index.html",
-    "main.8dc26883.css.map": "/vencio-frontend/static/css/main.8dc26883.css.map",
-    "main.a3c835ec.js.map": "/vencio-frontend/static/js/main.a3c835ec.js.map"
+    "main.css": "/static/css/main.8dc26883.css",
+    "main.js": "/static/js/main.a3c835ec.js",
+    "index.html": "/index.html",
+    "main.8dc26883.css.map": "/static/css/main.8dc26883.css.map",
+    "main.a3c835ec.js.map": "/static/js/main.a3c835ec.js.map"
   },
   "entrypoints": [
     "static/css/main.8dc26883.css",
