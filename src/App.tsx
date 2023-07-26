@@ -1,10 +1,11 @@
 import React from "react";
+import "./index.css";
+import LoginPage from "./pages/LoginPage";
 
 function App() {
   return (
-    <div className="font-poppins">
-      vencio.eu is a property of Henri Grüger and Julian Gräfen. For business
-      related questions mail us at: projekt.vencio@gmail.com
+    <div>
+      <LoginPage />
     </div>
   );
 }
