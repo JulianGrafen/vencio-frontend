@@ -17,6 +17,7 @@ module.exports = {
       
         "heading": '4em',
         "subheading": '1.5em',
+        "xl":'2em',
         "3xl": '2.8rem',
         "4xl": '4.025rem',
         "5xl": '8.052rem',
