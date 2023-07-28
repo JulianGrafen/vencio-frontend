@@ -13,6 +13,9 @@ function LoginPage() {
         Be awesome.
       </h2>
       <Login />
+      <div className=" absolute font-poppins font-bold text-xs inset-x-0 bottom-3  ">
+        Impressum | Datenschutz | Über uns
+      </div>
     </body>
   );
 }
